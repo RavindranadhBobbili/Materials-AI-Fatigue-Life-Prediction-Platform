@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Apr 30, 2026, 02_11_54 PM" src="https://github.com/user-attachments/assets/d24cf393-4078-4c16-9c1f-68d2039bfd9a" /># Materials-AI-Fatigue-Life-Prediction-Platform
+
 End-to-end AI system integrating:  Physics-informed machine learning Fatigue life prediction SHAP explainability RAG-based literature intelligence REST API deployment
 
 materials-ai-fatigue-life-prediction/
